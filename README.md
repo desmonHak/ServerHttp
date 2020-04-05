@@ -8,7 +8,7 @@ cd ServerHttp
 python ServerHttp.py
 
 ````linux ubuntu````
-sudo apt-get install python3
+sudo apt-get install python3 \n
 sudo apt-get install pip3
 pip3 install http
 cd ServerHttp
